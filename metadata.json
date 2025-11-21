@@ -1,0 +1,7 @@
+{
+  "name": "LingoVibe - Contextual Word Learning",
+  "description": "A comprehensive language learning tool featuring AI-powered word lookup with cultural context (vibe check), dynamic image generation, story generation from vocabulary, and interactive practice modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
